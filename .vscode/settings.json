@@ -1,0 +1,12 @@
+{
+    "ShortcutMenuBar.openFile": true,
+    "ShortcutMenuBar.save": true,
+    "ShortcutMenuBar.copy": true,
+    "ShortcutMenuBar.cut": true,
+    "ShortcutMenuBar.findReplace": true,
+    "ShortcutMenuBar.formatWith": true,
+    "ShortcutMenuBar.newFile": true,
+    "ShortcutMenuBar.paste": true,
+    "ShortcutMenuBar.saveAll": true,
+    "ShortcutMenuBar.startDebugging": true
+}
